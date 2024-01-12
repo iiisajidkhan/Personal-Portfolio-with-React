@@ -293,6 +293,7 @@ export const projects = [
     github: "https://github.com/SajidKhan-Dev/Ecommerce-Amazon-Project-with-React-JS",
     webapp: "https://ecommerce-amazon-project-with-react-9aytn0wn5.vercel.app/",
   },
+  
   {
     id: 9,
     title: "Amazon Clone with React Js", 
@@ -314,6 +315,7 @@ export const projects = [
     github: "https://github.com/SajidKhan-Dev/Ecommerce-Amazon-Project-with-React-JS",
     webapp: "https://ecommerce-amazon-project-with-react-9aytn0wn5.vercel.app/",
   },
+
   {
     id: 9,
     title: "Amazon Clone with React Js", 
@@ -335,6 +337,7 @@ export const projects = [
     github: "https://github.com/SajidKhan-Dev/Ecommerce-Amazon-Project-with-React-JS",
     webapp: "https://ecommerce-amazon-project-with-react-9aytn0wn5.vercel.app/",
   },
+
   {
     id: 9,
     title: "Amazon Clone with React Js", 
@@ -356,6 +359,7 @@ export const projects = [
     github: "https://github.com/SajidKhan-Dev/Ecommerce-Amazon-Project-with-React-JS",
     webapp: "https://ecommerce-amazon-project-with-react-9aytn0wn5.vercel.app/",
   },
+
   {
     id: 9,
     title: "Amazon Clone with React Js", 
@@ -403,7 +407,7 @@ export const projects = [
     date: "2023",
     description:"",
         image:
-      "https://cdn.dribbble.com/userupload/12201668/file/original-0a485c933e57ccb3425ea95c13d49a75.png?resize=1024x632",
+      "https://cdn.dribbble.com/userupload/12201681/file/original-9eabf28d36d8a32884126acd06301b03.png?resize=1024x632",
     tags: ["Figma", "Adobe PS", "UIUX", "Wireframing"],
     category: "android app",
     github: "https://www.linkedin.com/in/engineersajidkhan/",
@@ -416,7 +420,7 @@ export const projects = [
     date: "2023",
     description:"",
         image:
-      "https://cdn.dribbble.com/userupload/12201668/file/original-0a485c933e57ccb3425ea95c13d49a75.png?resize=1024x632",
+      "https://cdn.dribbble.com/userupload/12082871/file/original-f4be1db52153633cc359b7518d169e09.png?resize=1024x651",
     tags: ["Figma", "Adobe PS", "UIUX", "Wireframing"],
     category: "android app",
     github: "https://www.linkedin.com/in/engineersajidkhan/",
@@ -429,7 +433,7 @@ export const projects = [
     date: "2023",
     description:"",
         image:
-      "https://cdn.dribbble.com/userupload/12201668/file/original-0a485c933e57ccb3425ea95c13d49a75.png?resize=1024x632",
+      "https://cdn.dribbble.com/userupload/11785231/file/original-a71b40dc36a6dc5db3607e0407777fa1.png?resize=1024x692",
     tags: ["Figma", "Adobe PS", "UIUX", "Wireframing"],
     category: "android app",
     github: "https://www.linkedin.com/in/engineersajidkhan/",
@@ -442,7 +446,7 @@ export const projects = [
     date: "2023",
     description:"",
         image:
-      "https://cdn.dribbble.com/userupload/12201668/file/original-0a485c933e57ccb3425ea95c13d49a75.png?resize=1024x632",
+      "https://cdn.dribbble.com/userupload/12082873/file/original-02291bb8eee8fa7df3b0c3d046bdf735.png?resize=1024x622",
     tags: ["Figma", "Adobe PS", "UIUX", "Wireframing"],
     category: "android app",
     github: "https://www.linkedin.com/in/engineersajidkhan/",
