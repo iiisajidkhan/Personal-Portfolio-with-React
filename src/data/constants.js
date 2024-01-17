@@ -293,15 +293,15 @@ export const projects = [
     github: "https://github.com/SajidKhan-Dev/Ecommerce-Amazon-Project-with-React-JS",
     webapp: "https://ecommerce-amazon-project-with-react-9aytn0wn5.vercel.app/",
   },
-  
+
   {
     id: 9,
-    title: "Amazon Clone with React Js", 
-    date: "Jan 2024 - Jan 2024",
+    title: "React Blog", 
+    date: "2023",
     description:
-      " Amzon Clone with React Js. Only Home and Cart page with Redux ",
+      " ",
     image:
-      "https://i.imgur.com/XQ3UX7e.jpg",
+      "https://i.imgur.com/qn1wAHG.jpg",
     tags: [
 
       "React Js",
@@ -312,18 +312,18 @@ export const projects = [
       "API"
     ],
     category: "web app",
-    github: "https://github.com/SajidKhan-Dev/Ecommerce-Amazon-Project-with-React-JS",
-    webapp: "https://ecommerce-amazon-project-with-react-9aytn0wn5.vercel.app/",
+    github: "https://github.com/SajidKhan-Dev/reactblog",
+    webapp: "https://reactblog-lyart.vercel.app/",
   },
 
   {
     id: 9,
-    title: "Amazon Clone with React Js", 
-    date: "Jan 2024 - Jan 2024",
+    title: "Weather App with React", 
+    date: "2023",
     description:
-      " Amzon Clone with React Js. Only Home and Cart page with Redux ",
+      "",
     image:
-      "https://i.imgur.com/XQ3UX7e.jpg",
+      "https://i.imgur.com/HmuJkEO.jpg",
     tags: [
 
       "React Js",
@@ -334,18 +334,18 @@ export const projects = [
       "API"
     ],
     category: "web app",
-    github: "https://github.com/SajidKhan-Dev/Ecommerce-Amazon-Project-with-React-JS",
-    webapp: "https://ecommerce-amazon-project-with-react-9aytn0wn5.vercel.app/",
+    github: "https://github.com/SajidKhan-Dev/",
+    webapp: "https://react-js-weather-app-steel.vercel.app/",
   },
 
   {
     id: 9,
-    title: "Amazon Clone with React Js", 
-    date: "Jan 2024 - Jan 2024",
+    title: "TODO first app with react", 
+    date: "2023",
     description:
-      " Amzon Clone with React Js. Only Home and Cart page with Redux ",
+      " ",
     image:
-      "https://i.imgur.com/XQ3UX7e.jpg",
+      "https://i.imgur.com/aRlhVuu.jpg",
     tags: [
 
       "React Js",
@@ -356,18 +356,18 @@ export const projects = [
       "API"
     ],
     category: "web app",
-    github: "https://github.com/SajidKhan-Dev/Ecommerce-Amazon-Project-with-React-JS",
-    webapp: "https://ecommerce-amazon-project-with-react-9aytn0wn5.vercel.app/",
+    github: "https://github.com/SajidKhan-Dev",
+    webapp: "https://todo-list-react-js-omega.vercel.app/",
   },
 
   {
     id: 9,
-    title: "Amazon Clone with React Js", 
-    date: "Jan 2024 - Jan 2024",
+    title: "Currency Converter ", 
+    date: "2023",
     description:
-      " Amzon Clone with React Js. Only Home and Cart page with Redux ",
+      " ",
     image:
-      "https://i.imgur.com/XQ3UX7e.jpg",
+      "https://i.imgur.com/UnBXVqk.jpg",
     tags: [
 
       "React Js",
@@ -378,10 +378,10 @@ export const projects = [
       "API"
     ],
     category: "web app",
-    github: "https://www.linkedin.com/in/engineersajidkhan/",
-    webapp: "https://ecommerce-amazon-project-with-react-9aytn0wn5.vercel.app/",
+    github: "https://github.com/SajidKhan-Dev",
+    webapp: "https://currency-converter-five-blue.vercel.app/",
   },
-  
+ 
   
 
 
@@ -403,7 +403,7 @@ export const projects = [
 
   {
     id: 7,
-    title: "Ecommrace APP UI/UX", 
+    title: "APP UI/UX", 
     date: "2023",
     description:"",
         image:
@@ -416,7 +416,7 @@ export const projects = [
 
   {
     id: 7,
-    title: "Ecommrace APP UI/UX", 
+    title: "Dashboard UI/UX", 
     date: "2023",
     description:"",
         image:
@@ -429,7 +429,7 @@ export const projects = [
 
   {
     id: 7,
-    title: "Ecommrace APP UI/UX", 
+    title: " APP UI/UX", 
     date: "2023",
     description:"",
         image:
@@ -442,7 +442,7 @@ export const projects = [
 
   {
     id: 7,
-    title: "Ecommrace APP UI/UX", 
+    title: " APP UI/UX", 
     date: "2023",
     description:"",
         image:
